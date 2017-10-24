@@ -1,0 +1,15 @@
+.title-bar {
+  background: $brand-primary;
+
+}
+.title-bar__content{
+  display: flex;
+  justify-content: space-between;
+  max-width: $site-max-width;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+.title-bar__text {
+  color: white;
+  margin: 0;
+}
