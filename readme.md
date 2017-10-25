@@ -1,4 +1,4 @@
-Short Lnk
+#Short Lnk
 
 This is a link shortening application built with React and Meteor.
 
@@ -9,6 +9,9 @@ This uses verification for the email.  This app also verifies the websites
 that are submitted for shortening.   Once links have been added to the
 users database they are easily shared with the app to anyone.
 
-Author: Benjamin R Geyer
+##Author:
+Benjamin R Geyer
+
+
 Huge thanks to Andrew Mead for the assistance in creating this full-stack
-javascript app. 
+javascript app.
