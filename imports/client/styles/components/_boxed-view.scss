@@ -28,3 +28,8 @@
   display: flex;
   flex-direction: column;
 }
+
+.boxed-view__title {
+  font-family: 'Driod Sans', sans-serif;
+  color: darken($brand-primary, 22%);
+}
